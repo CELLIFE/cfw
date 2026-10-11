@@ -1,4 +1,4 @@
-name = "fwdjr"
+name = "fwdfggjr"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
@@ -16,4 +16,4 @@ enabled = false
 
 [[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
-id = "7341dcfd11d54d6b8cb1f328524a7b06"				#KV数据库id
+id = "8acc415ccfc948239b77b26042fc2b08"				#KV数据库id
